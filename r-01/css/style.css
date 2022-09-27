@@ -1,0 +1,50 @@
+* {
+    color: white;
+}
+
+body {
+    background-image: url(../img/fondo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#tit-form {
+    background-color: white;
+}
+
+.grey {
+    padding-left: 1rem;
+    color: grey;
+}
+
+.div-input {
+    background-color: grey;
+}
+
+.inputs {
+    margin-top: 1em;
+}
+
+.btn-form {
+    margin-top: 1em;
+    width: 100%;
+}
+
+#btn-google {
+    width: 10em;
+   
+}
+
+#btn-fb {
+    width: 8em;
+}
+
+i {
+    margin-right: 0.5em;
+}
+
+.p-texto {
+    width: 33em;
+}
+
+
